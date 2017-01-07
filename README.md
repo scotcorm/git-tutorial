@@ -9,6 +9,6 @@ from the HTML that I have learned so far.
 
 Handling pictures is different too, if I'm understanding this right:  
 ![Image of Rocket]
-(git-tutorial/rocket.png)
+(rocket.png)
 
 
